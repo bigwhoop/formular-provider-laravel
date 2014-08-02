@@ -1,5 +1,5 @@
 {
-  "name": "bigwhoop/formular",
+  "name": "formular/provider-laravel",
   "type": "library",
   "description": "Formular service provider and facade for Formular (formular/formular)",
   "keywords": ["form", "forms", "formular", "laravel"],

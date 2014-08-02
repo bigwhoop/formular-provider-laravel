@@ -26,7 +26,7 @@ class ServiceProvider extends \Illuminate\Support\ServiceProvider
      */
     public function boot()
     {
-        $this->package('bigwhoop/formular');
+        $this->package('formular/formular');
     }
     
 
