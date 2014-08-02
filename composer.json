@@ -1,0 +1,25 @@
+{
+  "name": "bigwhoop/formular",
+  "type": "library",
+  "description": "Formular service provider and facade for Formular (formular/formular)",
+  "keywords": ["form", "forms", "formular", "laravel"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Philippe Gerber",
+      "email": "philippe@bigwhoop.ch",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.4"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.1.*"
+  },  
+  "autoload": {  
+    "psr-4": {
+      "bigwhoop\\Formular\\Provider\\Laravel\\": "src/"
+    }
+  }
+}
