@@ -8,7 +8,7 @@
  * file that was distributed with this source code.
  */
 namespace bigwhoop\Formular\Provider\Laravel;
-use bigwhoop\Formular\Form\Bootstrap3Form;
+use bigwhoop\Formular\Form\Bootstrap3\Bootstrap3Form;
 
 /**
  * @author Philippe Gerber <philippe@bigwhoop.ch>
